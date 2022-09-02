@@ -1,4 +1,4 @@
-# **Cooking-Recipes-Application**
+# **cooking-recipes-application**
 
 ## Table of Contents
 - [General Description](#general-description)
